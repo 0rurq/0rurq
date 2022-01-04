@@ -4,7 +4,7 @@
   
   <img alt="Something broke with stats lmfao | rurq.gq" align="center" src="https://github-readme-stats.vercel.app/api?username=rurq-official&theme=monokai" />
   <img alt="Something broke with stats lmfao | rurq.gq" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rurq-official&theme=monokai" />
-  <img alt="rurq.gq" align="center" src="https://rurq.gq/cdn/a.svg" /> 
+  <img alt="rurq.gq" align="center" src="http://rurq.gq/cdn/a.svg" /> 
   
   
   
