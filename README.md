@@ -1,7 +1,7 @@
 <h1 align="center">kingrurq</h1>
 <a href="https://github.com/rurq"></a>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/784040495276883968?animated=true&idleMessage=Nothing right now..." />
+  <img src="https://lanyard.cnrad.dev/api/784040495276883968?animated=true" />
 </p>
 
 ---
