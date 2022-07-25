@@ -29,4 +29,3 @@
 <a href="https://github.com/kingrurq/Discord-Image-Rickroll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kingrurq&repo=Discord-Image-Rickroll&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true"></a>
 </p>
 
-<sub>stolen from @imvast</sub>
